@@ -1,0 +1,35 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"package_control-master"
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"All Autocomplete",
+		"Babel",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GoTags",
+		"IMESupport",
+		"Markdown Preview",
+		"Nil-Theme",
+		"Package Control",
+		"package_control-master",
+		"PyV8",
+		"Tagify",
+		"Theme - Soda",
+		"ZZZ"
+	]
+}
