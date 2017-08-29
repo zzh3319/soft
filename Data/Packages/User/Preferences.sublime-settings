@@ -3,7 +3,6 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"package_control-master",
 		"Vintage"
 	],
 	"theme": "Soda Dark 3.sublime-theme",
